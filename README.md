@@ -1,7 +1,7 @@
 ![cinema-g3884743d6_1920](https://user-images.githubusercontent.com/95854933/165392177-d2b2481e-cfca-4049-9583-090b724ad577.jpg)
 # Cinema store
 
-This is a simple WEB application that supports registration, authentication and CRUD operations.
+This is a simple web application for buying movie tickets that supports authentication, and authorization and interacts with the database.
 ## Functional:
 - login/register user
 - /cinema-halls create/getAll
